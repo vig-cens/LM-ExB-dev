@@ -1,0 +1,22 @@
+{
+  "name": "LM_product_fe",
+  "label": "Widget Chatbot",
+  "type": "widget",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "AI Chatbot widget",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true,
+    "supportAutoSize": true,
+    "hasConfig": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": "100%"
+  }
+}

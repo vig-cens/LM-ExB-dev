@@ -1,0 +1,30 @@
+{
+  "1733202643281": {
+    "originalName": "Color BG Vertical Transparent@2x.png",
+    "fileName": "1733202643281.png",
+    "size": 7289,
+    "url": "${appResourceUrl}/images/widget_2/1733202643281.png",
+    "created": 1733202643281,
+    "resourcesPrefix": "images/widget_2",
+    "referredIds": [],
+    "originId": "1733202643281",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 199,
+    "originalHeight": 160
+  },
+  "1733203222916": {
+    "originalName": "Dark BG Vertical@2x.jpg",
+    "fileName": "1733203222916.jpg",
+    "size": 51294,
+    "url": "${appResourceUrl}/images/widget_2/1733203222916.jpg",
+    "created": 1733203222916,
+    "resourcesPrefix": "images/widget_2",
+    "referredIds": [],
+    "originId": "1733203222916",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 347,
+    "originalHeight": 288
+  }
+}
