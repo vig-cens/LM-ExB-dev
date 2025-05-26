@@ -2267,11 +2267,12 @@
       "uri": "widgets/common/text/",
       "version": "1.16.0",
       "config": {
+        "placeholder": "<p><strong style=\"font-size: 20px; color: var(--light);\">Double click to edit text</strong></p>",
         "style": {
           "color": "var(--light)",
           "wrap": false
         },
-        "text": "<p><strong style=\"font-size: 20px; color: var(--light);\">Market Insights AI</strong></p>"
+        "text": "<p><strong style=\"color: var(--light); font-size: 20px;\">Market Insights AI - Real Estate</strong></p>"
       },
       "id": "widget_36",
       "label": "Text 3"
@@ -3395,7 +3396,7 @@
       }
     }
   },
-  "publishTimestamp": 1741273089012,
+  "publishTimestamp": 1731484003279,
   "useAutoSortInFixedLayout": true,
   "header": {
     "layout": {
@@ -3417,14 +3418,7 @@
     "backgroundColor": "var(--primary-200)"
   },
   "attributes": {
-    "portalUrl": "https://locaitionmatters.maps.arcgis.com",
-    "isWebTier": false,
-    "clientId": "zfScrNd5sELzaBCy",
-    "express": false,
-    "title": "Market Insights AI 1",
-    "description": "",
-    "type": "Web Experience",
-    "thumbnail": null
+    "portalUrl": "https://locaitionmatters.maps.arcgis.com"
   },
   "sharedThemeVariables": null,
   "dataSources": {
@@ -3437,7 +3431,7 @@
     }
   },
   "customTheme": {},
-  "timestamp": 1741273086413,
+  "timestamp": 1748254367646,
   "utilities": {
     "utility_1": {
       "id": "utility_1",
