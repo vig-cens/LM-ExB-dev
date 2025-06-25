@@ -4,12 +4,6 @@
  * MIT license
  */
 
-/*!
- * https://github.com/Starcounter-Jack/JSON-Patch
- * (c) 2017-2022 Joachim Wester
- * MIT licensed
- */
-
 /**
  * @license React
  * react-is.production.min.js
